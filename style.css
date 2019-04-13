@@ -1,0 +1,47 @@
+body{
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	background-color: #03B5AA;
+}
+
+h1{
+	    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+	font-family: 'Raleway', sans-serif;
+	color: #EA3788;
+	font-size:big;
+
+}
+
+h3 {
+	font-family: 'Raleway', sans-serif;
+	color: #EA3788;
+	font-size:big;
+
+}
+a:hover {
+	opacity: 0.7;
+}
+
+#banner{
+	background-image: url("https://www.heartofgold-hostel.de/wp-content/uploads/2011/05/Apt_2.jpg");
+	background-size: cover;
+	padding: 300px 40px;
+	color: #A51080;
+}
+
+.button a {
+	padding: 15px 20px;
+	color: purple;
+	background-color: #A51080;
+	height: 20px;
+	width: 60px;
+	border-radius: 3px;
+}
+
+
